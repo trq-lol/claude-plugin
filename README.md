@@ -38,3 +38,7 @@ Read [CLAUDE.md](CLAUDE.md) first. [llms.txt](llms.txt) indexes the files.
 ## License
 
 [MIT](LICENSE). The libraries have their own licenses. Not affiliated with Anthropic, Mojang or Microsoft.
+
+## Activity
+
+![Repobeats analytics image](https://repobeats.axiom.co/api/embed/cf804cd32064444bfcb92dd8edcd66f046d9e6de.svg "Repobeats analytics image")
