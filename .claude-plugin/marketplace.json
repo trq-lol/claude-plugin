@@ -1,0 +1,16 @@
+{
+  "name": "trq-lol",
+  "owner": {
+    "name": "trq-lol"
+  },
+  "metadata": {
+    "description": "trq-lol plugins for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "trq-lol",
+      "source": "./",
+      "description": "Skills for building with the public lol.trq libraries: alts, helios, lazarus and orpheus."
+    }
+  ]
+}

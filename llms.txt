@@ -1,0 +1,16 @@
+# trq-lol plugin for Claude Code
+
+> Skills for building with the public lol.trq Java libraries.
+
+## Skills
+
+- [alts](skills/alts/SKILL.md): Minecraft accounts
+- [helios](skills/helios/SKILL.md): Forge 1.8.9 rendering
+- [lazarus](skills/lazarus/SKILL.md): Forge 1.8.9 on modern Java
+- [orpheus](skills/orpheus/SKILL.md): media sessions and lyrics
+
+## Docs
+
+- [README](README.md): install and development
+- [CLAUDE.md](CLAUDE.md): rules for changing the skills
+- [CONTRIBUTING](CONTRIBUTING.md), [CHANGELOG](CHANGELOG.md), [SECURITY](SECURITY.md)

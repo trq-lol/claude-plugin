@@ -1,0 +1,17 @@
+{
+  "name": "trq-lol",
+  "version": "0.1.0",
+  "description": "Skills for building with the public lol.trq libraries: alts, helios, lazarus and orpheus.",
+  "author": {
+    "name": "trq-lol"
+  },
+  "repository": "https://github.com/trq-lol/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "java",
+    "minecraft",
+    "forge",
+    "opengl",
+    "media"
+  ]
+}
